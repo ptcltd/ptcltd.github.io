@@ -1,0 +1,38 @@
+a.lv1:link {
+	color: #157277;
+	text-decoration: none;
+}
+a.lv1:visited {
+	color: #157277;
+	text-decoration: none;
+}
+a.lv1:hover {
+	color: #999900;
+	text-decoration: underline;
+}
+a.hui1:link {
+	color: #666666;
+	text-decoration: none;
+}
+a.hui1:visited {
+	color: #666666;
+	text-decoration: none;
+}
+a.hui1:hover {
+	color: #CCCCCC;
+	text-decoration: underline;
+}
+
+
+a.hei1:link {
+	color: #000000;
+	text-decoration: underline;
+}
+a.hei1:visited {
+	color: #000000;
+	text-decoration: underline;
+}
+a.hei1:hover {
+	color: #990000;
+	text-decoration: underline;
+}

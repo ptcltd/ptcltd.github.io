@@ -1,0 +1,42 @@
+TD {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 16px; FONT-FAMILY: ??,verdana
+}
+A:link {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #1c88d3; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #1c88d3; TEXT-DECORATION: none
+}
+.txtb {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 16px; FONT-FAMILY: ??,verdana
+}
+INPUT {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; COLOR: #000000; BORDER-BOTTOM: #cccccc 1px solid
+}
+.check {
+	BORDER-RIGHT: #cccccc 0px solid; BORDER-TOP: #cccccc 0px solid; BORDER-LEFT: #cccccc 0px solid; COLOR: #000000; BORDER-BOTTOM: #cccccc 0px solid
+}
+.but {
+	BORDER-RIGHT: #ffffff 0px solid; BORDER-TOP: #ffffff 0px solid; BORDER-LEFT: #ffffff 0px solid; COLOR: #ffffff; BORDER-BOTTOM: #ffffff 0px solid
+}
+TEXTAREA {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; COLOR: #000000; BORDER-BOTTOM: #cccccc 1px solid
+}
+.colorform {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; COLOR: #000000; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #fffed1
+}
+.radioform {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.box {
+	BORDER-RIGHT: #707070 1px solid; BORDER-TOP: #707070 1px solid; BORDER-LEFT: #707070 1px solid; BORDER-BOTTOM: #707070 1px solid; FONT-FAMILY: "Verdana", "simsun"; BACKGROUND-COLOR: white
+}
+.txtwhite {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 16px; FONT-FAMILY: "Verdana", "simsun"
+}
